@@ -1,0 +1,30 @@
+C:\Users\Swati Gupta\source\repos\Filtermap\Filtermap\obj\Debug\Filtermap.csprojResolveAssemblyReference.cache
+C:\Users\Swati Gupta\source\repos\Filtermap\Filtermap\obj\Debug\Filtermap.Form1.resources
+C:\Users\Swati Gupta\source\repos\Filtermap\Filtermap\obj\Debug\Filtermap.Properties.Resources.resources
+C:\Users\Swati Gupta\source\repos\Filtermap\Filtermap\obj\Debug\Filtermap.csproj.GenerateResource.Cache
+C:\Users\Swati Gupta\source\repos\Filtermap\Filtermap\obj\Debug\Filtermap.csproj.CoreCompileInputs.cache
+C:\Users\Swati Gupta\source\repos\Filtermap\Filtermap\bin\Debug\Filtermap.exe.config
+C:\Users\Swati Gupta\source\repos\Filtermap\Filtermap\bin\Debug\Filtermap.exe
+C:\Users\Swati Gupta\source\repos\Filtermap\Filtermap\bin\Debug\Filtermap.pdb
+C:\Users\Swati Gupta\source\repos\Filtermap\Filtermap\obj\Debug\Filtermap.exe
+C:\Users\Swati Gupta\source\repos\Filtermap\Filtermap\obj\Debug\Filtermap.pdb
+C:\Users\deer\Downloads\Filtermap-20200525T143827Z-001\Filtermap\bin\Debug\Filtermap.exe.config
+C:\Users\deer\Downloads\Filtermap-20200525T143827Z-001\Filtermap\bin\Debug\Filtermap.exe
+C:\Users\deer\Downloads\Filtermap-20200525T143827Z-001\Filtermap\bin\Debug\Filtermap.pdb
+C:\Users\deer\Downloads\Filtermap-20200525T143827Z-001\Filtermap\obj\Debug\Filtermap.csprojAssemblyReference.cache
+C:\Users\deer\Downloads\Filtermap-20200525T143827Z-001\Filtermap\obj\Debug\Filtermap.Form1.resources
+C:\Users\deer\Downloads\Filtermap-20200525T143827Z-001\Filtermap\obj\Debug\Filtermap.Properties.Resources.resources
+C:\Users\deer\Downloads\Filtermap-20200525T143827Z-001\Filtermap\obj\Debug\Filtermap.csproj.GenerateResource.cache
+C:\Users\deer\Downloads\Filtermap-20200525T143827Z-001\Filtermap\obj\Debug\Filtermap.csproj.CoreCompileInputs.cache
+C:\Users\deer\Downloads\Filtermap-20200525T143827Z-001\Filtermap\obj\Debug\Filtermap.exe
+C:\Users\deer\Downloads\Filtermap-20200525T143827Z-001\Filtermap\obj\Debug\Filtermap.pdb
+D:\New folder\projects\Filtermap\Filtermap\bin\Debug\Filtermap.exe.config
+D:\New folder\projects\Filtermap\Filtermap\bin\Debug\Filtermap.exe
+D:\New folder\projects\Filtermap\Filtermap\bin\Debug\Filtermap.pdb
+D:\New folder\projects\Filtermap\Filtermap\obj\Debug\Filtermap.csprojAssemblyReference.cache
+D:\New folder\projects\Filtermap\Filtermap\obj\Debug\Filtermap.Form1.resources
+D:\New folder\projects\Filtermap\Filtermap\obj\Debug\Filtermap.Properties.Resources.resources
+D:\New folder\projects\Filtermap\Filtermap\obj\Debug\Filtermap.csproj.GenerateResource.cache
+D:\New folder\projects\Filtermap\Filtermap\obj\Debug\Filtermap.csproj.CoreCompileInputs.cache
+D:\New folder\projects\Filtermap\Filtermap\obj\Debug\Filtermap.exe
+D:\New folder\projects\Filtermap\Filtermap\obj\Debug\Filtermap.pdb
